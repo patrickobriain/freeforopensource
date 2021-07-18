@@ -19,9 +19,9 @@ ___
 
 ### Version Control
 
-[<img src="https://bitbucket.org/favicon.ico" alt="BitBucket" height="16" /> BitBucket](https://bitbucket.org/) - free for open source and private repositories
+[<img src="https://patrickobriain.github.io/freeforopensource/assets/providers/bitbucket.svg" alt="BitBucket" height="16" /> BitBucket](https://bitbucket.org/) - free for open source and private repositories
 
-[<img src="https://codeberg.org/img/favicon.png" alt="codeberg" height="16" /> codeberg](https://codeberg.org/) - free as in freedom for open source repositories - backed by a nonprofit association
+[<img src="https://docs.codeberg.org/assets/images/logo/codeberg-favicon.svg" alt="codeberg" height="16" /> codeberg](https://codeberg.org/) - free as in freedom for open source repositories - backed by a nonprofit association
 
 [<img src="https://github.com/favicon.ico" alt="GitHub" height="16" /> GitHub](https://github.com/) - free for open source repositories, free for private repositories
 
