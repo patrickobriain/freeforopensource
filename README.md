@@ -2,7 +2,7 @@
   <img src="https://patrickobriain.github.io/freeforopensource/assets/logo/main-green.svg" alt="Free for Open Source logo" width="450" />
   </p>
   
- <p align="center">A web directory of services available free to open-source projects.</p>
+ <p align="center">A web directory built with Bootstrap of services available free to open-source projects.</p>
 </p>
 
 ___
